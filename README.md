@@ -1,7 +1,5 @@
 # YOLOv5-Powered-X-Ray-Baggage-Screening-for-Threat-Detection-in-Airports
 
-# CVASBD: CV-Driven Automated Suspicious Baggage Detection
-
 ## Project Summary
 Ensuring accurate classification of luggage is crucial for security in public spaces and transportation hubs. This project implements a **CV-Driven Automated Suspicious Baggage Detection** system using the **YOLOv5** object detection model. The model is trained to detect and classify suspicious objects within luggage scans, leveraging YOLOv5's robust feature extraction capabilities.
 
